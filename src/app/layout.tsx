@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const poppins = Poppins({
     subsets: ["latin"],
-    weight : ["200"]
+    weight : ["700"]
 });
 
 export const metadata: Metadata = {
@@ -21,8 +21,8 @@ export default function RootLayout({
   return (
     <html lang="en">
         <body className={poppins.className}>
-            <Image src="/bg_aftaza.png" alt="Bg aftaza web" className="fixed top-1 -right-32 opacity-10" width={600} height={600} />
             {children}
+            <Image src="/bg_aftaza.png" alt="Bg aftaza web" className="fixed top-2 -right-32 opacity-10 pointer-events-none" width={630} height={630} />
         </body>
     </html>
   );
