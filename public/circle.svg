@@ -1,7 +1,7 @@
-<svg width="221" height="238" viewBox="0 0 221 238" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="80" cy="97" r="141" fill="url(#paint0_radial_1_3)"/>
+<svg width="282" height="282" viewBox="0 0 282 282" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="141" cy="141" r="141" fill="url(#paint0_radial_1_3)"/>
 <defs>
-<radialGradient id="paint0_radial_1_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-23 -74) rotate(45.5293) scale(348.3 344.022)">
+<radialGradient id="paint0_radial_1_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(38 -30) rotate(45.5293) scale(348.3 344.022)">
 <stop stop-color="white"/>
 <stop offset="1" stop-color="#6100FF"/>
 </radialGradient>
