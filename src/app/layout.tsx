@@ -22,7 +22,7 @@ export default function RootLayout({
     <html lang="en">
         <body className={poppins.className}>
             {children}
-            <Image src="/bg_aftaza.png" alt="Bg aftaza web" className="fixed top-2 -right-32 opacity-10 pointer-events-none" width={630} height={630} />
+            <Image src="/bgAftaza.png" alt="Bg aftaza web" className="fixed top-2 -right-32 opacity-10 pointer-events-none" width={630} height={630} />
         </body>
     </html>
   );
